@@ -1,0 +1,94 @@
+body{
+    background-image: radial-gradient( circle 311px at 8.6% 27.9%,  rgba(62,147,252,0.57) 12.9%, rgba(239,183,192,0.44) 91.2% );
+}
+#login{
+    background-color: white;
+    width: 1248px;     
+    height: 731px;     
+    position: absolute;    
+    top: 50%;     
+    left: 50%;     
+    transform: translate(-50%, -50%);    
+    z-index: 1;     
+    background-color: white;     
+    border-radius: 50px;  
+}
+#loginin{
+    margin-left: 50px;
+}
+#left{
+    float: left;
+    width: 70%;
+    height: 579px;
+}
+#right{
+    background-color: rgb(140, 245, 248);
+    float: right;
+    width: 30%;
+    height: 100%;
+    border-radius: 40px;
+    
+}
+#h1{
+    font-size: 56px;
+}
+#Username{
+    font-size: 18px;
+    display: block;
+    margin-bottom: 10px;
+}
+#username{
+    background-color: aquamarine;
+    width: 50%;
+    height: 37px;
+    display: block;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+#password{
+    background-color: aquamarine;
+    width: 50%;
+    height: 37px;
+    display: block;
+    margin-bottom: 38px;
+    border-radius: 10px;
+}
+#Password{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.click{
+    padding: 20px;
+    border-radius: 50px;
+    background-color: pink;
+    margin-left: 150px;
+    width: 20%;
+    color: white;
+
+}
+.Click{
+    padding: 10px;
+    margin-left: 180px;
+}
+.gg{
+    width: 125px;
+    height: 50px;
+    border-radius: 40px;
+    margin-left: 115px;
+}
+.cat{
+    width: 125px;
+    height: 50px;
+    border-radius: 40px;
+}
+.fb{
+    width: 125px;
+    height: 50px;
+    border-radius: 40px;
+    margin-bottom: 50px;
+}
+
+#test{
+    display: flex;
+    width: 60%;
+}

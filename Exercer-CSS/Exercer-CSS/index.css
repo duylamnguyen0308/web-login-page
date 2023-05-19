@@ -1,0 +1,354 @@
+.all{
+    display: flex;
+    height: 1117px;
+}
+.slidebar{
+    background-color: #FFC297;
+    width: 120px;
+
+}
+.center{
+    border-right: 1px solid #858585;
+    width: 20%;
+    min-width: fit-content;
+}
+.bell{
+    margin: auto;
+    margin-top: 50px;
+    width: 26.67px;
+    
+}
+.vector{
+    margin: auto;
+    margin-top: 50px;
+    width: 26.67px;
+    
+}
+.flash{
+    margin: auto;
+    margin-top: 50px;
+    width: 26.67px;
+    
+}
+.pro{
+    margin: auto;
+    margin-top: 50px;
+    width: 26.67px;
+    
+}
+.sett{
+    transform: translate(13px, 13px);
+}
+.setting{
+    margin: auto;
+    margin-top: 400px;
+    width: 65px;
+    height: 65px;
+    border-radius: 50px;
+    background-color: #ff7008;
+    
+}
+.set{
+    display: flex;
+}
+.end{
+    width: 60%;
+}
+.logo{
+    margin-left: 27px;
+    margin-right: 31px;
+    margin-top: 31px;
+    width: 65px;
+    height: 65px;
+    border-radius: 50px;
+}
+.home{
+    width: 33.33px;
+    height: 27.63px;
+    margin: auto;
+    margin-top: 50px;   
+}
+.back{
+    width: 14.82px;
+    height: 24px;   
+    margin-left: 16px;
+    margin-top: 9px;
+}
+.settings{
+    width: 117px;
+    height: 38px;
+    margin-top: 8px;
+    margin-left: 22px;
+    font-family: cursive;
+    font-size: larger;
+}
+.into-center{
+    display: flex;
+    margin-top: 85px;
+    margin-left: 25px;
+}
+.pen{
+    width: 33.75px;
+    height: 33.75px;
+    margin-top: 5.63px;
+    margin-left: 5.63px;
+}
+.text-center{
+    width: 137px;
+    height: 33px;
+    margin-top: 17px;
+    margin-left: 100px;
+    font-family: cursive;
+    font-size: larger;
+}
+.bell-grey{
+    width: 26.67px;
+    height: 32.5px;
+    margin-top: 66.17px;
+    margin-left: 6.67px;
+}
+.noti{
+    width: 147px;
+    height: 33px;
+    margin-top: 47px;
+    margin-left: 100px;
+    font-family: cursive;
+    font-size: larger;
+}
+.secu{
+    width: 147px;
+    height: 33px;
+    margin-top: 75px;
+    margin-left: 100px;
+    font-family: cursive;
+    font-size: larger;
+}
+.app{
+    width: 147px;
+    height: 33px;
+    margin-top: 64px;
+    margin-left: 100px;
+    font-family: cursive;
+    font-size: larger;
+}
+.help{
+    width: 147px;
+    height: 33px;
+    margin-top: 70px;
+    margin-left: 100px;
+    font-family: cursive;
+    font-size: larger;
+}
+.editPro{
+    display: flex;
+}.Epro{
+    width: 232px;
+    height: 53px;
+    margin-top: 83px;
+    margin-left: 110px;
+    font-family: cursive;
+    font-size: 40px;
+}
+.image-home{
+    width: 120px;
+    height: 120px;
+    margin-top: 60px;
+    margin-left: 450px;
+    border-radius: 500px;
+}
+.form-name{
+    display: flex;
+}
+.fname{
+    width: 128px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 110px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.lname{
+    width: 126.62px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 210px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.finput{
+    width: 200px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 110px;
+    border-radius: 5px;
+    text-indent: 10px;
+    filter: drop-shadow(0 0 0.75rem rgb(20, 220, 193));
+    border: 1px solid rgb(20, 220, 193);
+}
+.linput{
+    width: 200px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 210px;
+    border-radius: 5px;
+    text-indent: 10px;
+    filter: drop-shadow(0 0 0.75rem rgb(20, 220, 193));
+    border: 1px solid rgb(20, 220, 193);
+}
+.email{
+    width: 128px;
+    height: 30px;
+    margin-top: 22px;
+    margin-left: 57px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.einput{
+    width: 873px;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 57px;
+    border-radius: 5px;
+    text-indent: 10px;
+    filter: drop-shadow(0 0 0.75rem rgb(20, 220, 193));
+    border: 1px solid rgb(20, 220, 193);
+}
+.address{
+    width: 128px;
+    height: 30px;
+    margin-top: 140px;
+    margin-left: 57px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.ainput{
+    width: 873px;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 57px;
+    border-radius: 5px;
+    text-indent: 10px;
+    filter: drop-shadow(0 0 0.75rem rgb(20, 220, 193));
+    border: 1px solid rgb(20, 220, 193);
+}
+.contact{
+    width: 155px;
+    height: 30px;
+    margin-top: 136px;
+    margin-left: 57px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.cninput{
+    width: 873px;
+    height: 70px;
+    margin-top: 30px;
+    margin-left: 57px;
+    border-radius: 5px;
+    text-indent: 10px;
+    filter: drop-shadow(0 0 0.75rem rgb(20, 220, 193));
+    border: 1px solid rgb(20, 220, 193);
+}
+.city{
+    width: 128px;
+    height: 30px;
+    margin-top: 145px;
+    margin-left: 57px;
+    font-family: cursive;
+    font-size: 20px;
+}
+.ctinput{
+    width: 405px;
+    height: 70px;
+    margin-top: 40px;
+    margin-left: 57px;
+    border-radius: 5px;
+    border: black solid 0.5px;
+    text-align: center;
+    text-indent: 10px;
+    filter: drop-shadow(0 -6mm 4mm rgb(160, 0, 210));
+    border: 1px solid rgb(160, 0, 210);
+}
+.button{
+    display: flex; 
+    margin-top: 175px; 
+    margin-left: 112px;
+}
+.Cbutton{
+    width: 190px;
+    height: 55px;
+    background-color: #ffffff;
+    border: 2px solid #ff7008;
+    border-radius: 5px;
+}
+.Sbutton{
+    width: 190px;
+    height: 55px;
+    background-color: #ff7008;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+}
+#cb{
+    accent-color: #34495e;
+    transform: scale(2);
+    left: 900px;
+    bottom: 26%;   
+    position: absolute; 
+}
+.emailput{
+    position: relative;
+}
+@media screen and (max-width: 899px){
+    .slidebar{
+        height: 1270px;
+    }
+    .center{
+        display: none;
+    }
+    .editPro{
+        display: block;
+        padding: 20px 10px;
+    }
+    .image-home{
+        margin-top: -70px;  
+    }
+}
+@media  (max-width: 1270px) {
+    .center{
+        display: none;
+    }
+    .form-name{
+        display: block;
+    }
+    .finput{
+        width: 400px;
+    }
+    .lname{
+        margin-left: 110px;
+        
+    }
+    .linput{
+        margin-left: 110px;
+        width: 400px;
+    }
+    .einput{
+        width: 400px;
+        height: 40px;
+    }
+    .ainput{
+        width: 400px;
+        height: 40px;
+    }
+    .cninput{
+        width: 400px;
+        height: 40px;
+    }
+    .ctinput{
+        width: 400px;
+        height: 40px;
+    }
+    #cb{
+        bottom: 41%;
+    }
+}
